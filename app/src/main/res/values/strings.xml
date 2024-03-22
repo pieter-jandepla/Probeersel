@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Probeersel</string>
+    <string name="title_activity_dishlist">DishlistActivity</string>
+    <string-array name="entrees">
+        <item>Advocaod toasts</item>
+        <item>Croquettes</item>
+        <item>Salade</item>
+        <item>Crêpes</item>
+    </string-array>
+
+    <string-array name="plats">
+        <item>Lasagne</item>
+        <item>Pizza</item>
+        <item>Spaghetti3</item>
+        <item>Pâte saumon</item>
+    </string-array>
+
+    <string-array name="desserts">
+        <item>Crêpes</item>
+        <item>Glace</item>
+        <item>Tarte au citrion</item>
+        <item>Tiramisu</item>
+    </string-array>
+    <string name="title_activity_dish_detail">DishDetailActivity</string>
+
+</resources>
