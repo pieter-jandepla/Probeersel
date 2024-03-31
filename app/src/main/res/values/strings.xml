@@ -22,5 +22,7 @@
         <item>Tiramisu</item>
     </string-array>
     <string name="title_activity_dish_detail">DishDetailActivity</string>
-
+    <string name="home_desert" />
+    <string name="home_dish" />
+    <string name="home_starters" />
 </resources>

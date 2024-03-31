@@ -53,7 +53,7 @@ class MainActivity : ComponentActivity() {
     fun onItemClicked(text: String) {
         Toast.makeText(this, text, Toast.LENGTH_SHORT).show()
         val intent = Intent(this, DishlistActivity::class.java)
-        intent.putExtra("selected_category", text)
+        intent.putExtra("category", text)
         startActivity(intent)
     }
 

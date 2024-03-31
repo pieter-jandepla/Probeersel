@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fake_dishes" />
+    <string-array name="fake_dish" />
+    <string-array name="fake_desert" />
+    <string-array name="fake_starters" />
+</resources>
